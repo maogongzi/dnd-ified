@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/maogongzi/dnd-ified",
   "author": "Dylan Mao <maverickpuss@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "draggabilly": "2.3.0",
+    "droppabilly": "chienhungchen/droppabilly#cd433287ccea4fee637894467b24fed8198433a8"
+  }
 }
