@@ -1,0 +1,9 @@
+{
+  "name": "dnd-ified",
+  "version": "0.1.0",
+  "description": "Drag and Drop support through draggabilly and droppabilly libs",
+  "main": "index.js",
+  "repository": "https://github.com/maogongzi/dnd-ified",
+  "author": "Dylan Mao <maverickpuss@gmail.com>",
+  "license": "MIT"
+}
